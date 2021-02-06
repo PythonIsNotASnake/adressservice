@@ -1,0 +1,5 @@
+com\example\adressservice\services\AddressService.class
+com\example\adressservice\dao\AddressesRepository.class
+com\example\adressservice\AdressserviceApplication.class
+com\example\adressservice\controllers\AddressController.class
+com\example\adressservice\models\Addresses.class
